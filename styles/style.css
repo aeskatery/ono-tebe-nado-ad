@@ -28,6 +28,7 @@
 .header__logo {
   display: block;
   width: 148px;
+  height: 105px;
 }
 
 .header__logo-image {
@@ -215,7 +216,7 @@
   display: grid;
   grid-template-columns: 334px 1fr;
   gap: 25px;
-  margin: 120px 24px 0;
+  margin: 152px 24px 0;
 }
 
 .about__logo {
